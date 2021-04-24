@@ -7,7 +7,16 @@
 }
 
 #secondary-nav a:hover {
-    color: gold !important;
+    color: gainsboro !important;
+}
+
+p {
+    font-size: 20px;
+}
+
+.sm-font-light {
+    font-size: 15px;
+    font-weight: 200;
 }
 
 
