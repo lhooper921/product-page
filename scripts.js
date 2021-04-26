@@ -94,3 +94,4 @@
                next.children(':first-child').clone().appendTo($(this));
            }
        });
+       $("#myModal").modal()
