@@ -243,6 +243,14 @@ p {
     width: 15rem;
 }
 
+.accordian {
+    margin-top: 30px;
+}
+
+.accordian-card {
+    width: 100%;
+}
+
 .strikethough {
     text-decoration: line-through;
 }
