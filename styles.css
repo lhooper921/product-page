@@ -376,6 +376,25 @@ tr:nth-child(even) {
     background-color: #f44336;
 }
 
+.footer {
+    padding-top: 50px;
+    background-color: whitesmoke;
+}
+
+.footer-heading {
+    font-size: 18px;
+    color: hsl(213, 27%, 19%);
+    font-weight: bold;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.footer-links {
+    color: gray;
+    text-decoration: none;
+    text-align: left;
+}
+
 
 /* Responsive layout - make the columns stack on top of each other instead of next to each other */
 
